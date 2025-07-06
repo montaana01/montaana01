@@ -15,7 +15,7 @@
 
 <br>
 
-<div style="display: flex; flex-wrap: wrap;">
+<div display="flex" flex-wrap="wrap">
   <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=montaana01&show_icons=true&locale=en" alt="montaana01" width="50%"/></p>
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=montaana01&" alt="montaana01" width="50%"/></p>
 </div>
