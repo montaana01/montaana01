@@ -25,6 +25,7 @@
 ###
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={montaana01}&theme={solarized}" height="150" alt="summary graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=montaana01&theme=solarized" height="150" alt="summary graph"  />
 </div>
+
 ###
