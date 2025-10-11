@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alexey Yakovlev and I'm Frontend developer</h1>
 <h3 align="center">If you are need JavaScript developer with creative ideas, ready to perform various tasks and learn new technologies, I am ready to join your team!</h3>
 <br>
-- 🌱 I’m currently learning **React and Node.js**
-
+- 🌱 I’m currently learning <strong>React and Node.js</strong>
+- 🇬🇧 My current level of <strong>english</strong> is <strong>B1</strong>
 - 👨‍💻 All of my projects are available at [cv.yakovlev.com](cv.yakovlev.com)
 <br>
 <h3 align="left">Connect with me:</h3>
