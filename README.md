@@ -1,21 +1,128 @@
-<h1 align="center">Hi 👋, I'm Alexey Yakovlev and I'm Frontend developer</h1>
-<h3 align="center">If you are need JavaScript developer with creative ideas, ready to perform various tasks and learn new technologies, I am ready to join your team!</h3>
-<br>
-- 🌱 I’m currently learning <strong>React and Node.js</strong></br>
-- 🇬🇧 My current level of <strong>english</strong> is <strong>B1</strong></br>
-- 👨‍💻 All of my projects are available at https://cv.yakovlev.com</br>
-<br>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/yakovlevdeveloper" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yakovlevdeveloper" height="30" width="40" /></a>
+<h1 align="center">Hi, I'm Alexey Yakovlev</h1>
+
+<p align="center">
+  Frontend Developer (JavaScript/TypeScript • React/Next.js) — I build clean, fast, and maintainable UI.
 </p>
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-<br>
+<p align="center">
+  <a href="https://cv.yakovlevdev.com">Portfolio</a> •
+  <a href="https://linkedin.com/in/yakovlevdeveloper">LinkedIn</a> •
+  <a href="https://t.me/yakovlevdeveloper">Telegram</a>
+</p>
 
-<div display="flex" flex-wrap="wrap">
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=montaana01&show_icons=true&locale=en" alt="montaana01" width="50%"/></p>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=montaana01&" alt="montaana01" width="50%"/></p>
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=montaana01&style=flat-square" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-UI%20Quality%20%7C%20Performance%20%7C%20Maintainability-111827?style=flat-square" alt="Focus" />
+</p>
+
+---
+
+### About
+- I develop web interfaces with a focus on **UI quality**, **performance**, and **maintainability**
+- My main stack: **TypeScript**, **React**, **Next.js**, modern tooling and linting
+- Also working with **PHP** ecosystem (Yii2 / Laravel) and infrastructure basics (Nginx, Docker)
+- English: **B1 (Intermediate)**
+
+---
+
+### Featured Projects
+- **ORSHA SHAR** — Next.js SSR/SSG showcase website, SEO, galleries, redirects, MySQL :contentReference[oaicite:3]{index=3}  
+  Repo: `orsha_shar`
+- **Ticket Tracker (Frontend)** — React + TypeScript + Vite + strict code style configs :contentReference[oaicite:4]{index=4}  
+  Repo: `ticket-tracker-frontend`
+- **Ticket Tracker (Svelte version)** — Svelte + TypeScript + Vite :contentReference[oaicite:5]{index=5}  
+  Repo: `tickets-svelte`
+- **Ticket Tracker (Backend)** — PHP backend (composer-based project) :contentReference[oaicite:6]{index=6}  
+  Repo: `ticket-tracker-backend`
+
+---
+
+### Tech Stack
+
+<strong>Frontend</strong>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="Redux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="Svelte" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="Vite" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass" />
+</p>
+
+<strong>Backend / PHP</strong>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" height="40" alt="Yii2" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Zend%2FLaminas-Framework-111827?style=flat-square" alt="Zend/Laminas" />
+  <img src="https://img.shields.io/badge/Bitrix-Native-111827?style=flat-square" alt="Bitrix" />
+</p>
+
+<strong>Databases / Infra</strong>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="Nginx" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+</p>
+
+---
+
+### GitHub Analytics
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=montaana01&show_icons=true&hide_border=true&rank_icon=github&cache_seconds=1800"
+    alt="GitHub stats"
+    height="165"
+  />
+  <img
+    src="https://streak-stats.demolab.com?user=montaana01&hide_border=true"
+    alt="GitHub streak"
+    height="165"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=montaana01&layout=compact&hide_border=true&langs_count=10&cache_seconds=1800"
+    alt="Top languages"
+    height="165"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=montaana01&hide_border=true"
+    alt="Activity graph"
+  />
+</p>
+
+<details>
+  <summary><strong>More stats</strong></summary>
+  <br />
+
+  <p align="left">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=montaana01&no-frame=true&row=1&column=7"
+      alt="Trophies"
+    />
+  </p>
+
+  <p align="left">
+    <img
+      src="https://metrics.lecoq.io/montaana01?template=classic&base.header=0&base.metadata=0&config.timezone=Europe%2FVilnius"
+      alt="Metrics"
+    />
+  </p>
+</details>
