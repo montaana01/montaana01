@@ -77,28 +77,10 @@
 </p>
 
 ---
-
 ### GitHub Analytics
 
 <p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=montaana01&show_icons=true&hide_border=true&rank_icon=github&cache_seconds=1800"
-    alt="GitHub stats"
-    height="165"
-  />
-  <img
-    src="https://streak-stats.demolab.com?user=montaana01&hide_border=true"
-    alt="GitHub streak"
-    height="165"
-  />
-</p>
-
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=montaana01&layout=compact&hide_border=true&langs_count=10&cache_seconds=1800"
-    alt="Top languages"
-    height="165"
-  />
+  <img src="./metrics.svg" alt="Metrics" />
 </p>
 
 <p align="left">
@@ -108,21 +90,3 @@
   />
 </p>
 
-<details>
-  <summary><strong>More stats</strong></summary>
-  <br />
-
-  <p align="left">
-    <img
-      src="https://github-profile-trophy.vercel.app/?username=montaana01&no-frame=true&row=1&column=7"
-      alt="Trophies"
-    />
-  </p>
-
-  <p align="left">
-    <img
-      src="https://metrics.lecoq.io/montaana01?template=classic&base.header=0&base.metadata=0&config.timezone=Europe%2FVilnius"
-      alt="Metrics"
-    />
-  </p>
-</details>
