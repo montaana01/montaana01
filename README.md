@@ -20,20 +20,20 @@
 ### About
 - I develop web interfaces with a focus on **UI quality**, **performance**, and **maintainability**
 - My main stack: **TypeScript**, **React**, **Next.js**, modern tooling and linting
-- Also working with **PHP** ecosystem (Yii2 / Laravel) and infrastructure basics (Nginx, Docker)
+- Also working with **PHP** ecosystem (Yii2 / Laravel / Zend / Bitrix) and infrastructure basics (Nginx, Docker)
 - English: **B1 (Intermediate)**
 
 ---
 
 ### Featured Projects
-- **ORSHA SHAR** — Next.js SSR/SSG showcase website, SEO, galleries, redirects, MySQL :contentReference[oaicite:3]{index=3}  
-  Repo: `orsha_shar`
-- **Ticket Tracker (Frontend)** — React + TypeScript + Vite + strict code style configs :contentReference[oaicite:4]{index=4}  
-  Repo: `ticket-tracker-frontend`
-- **Ticket Tracker (Svelte version)** — Svelte + TypeScript + Vite :contentReference[oaicite:5]{index=5}  
-  Repo: `tickets-svelte`
-- **Ticket Tracker (Backend)** — PHP backend (composer-based project) :contentReference[oaicite:6]{index=6}  
-  Repo: `ticket-tracker-backend`
+- **ORSHA SHAR** — Next.js SSR/SSG showcase website, SEO, galleries, redirects, MySQL  
+  Repo: https://github.com/montaana01/orsha_shar
+- **Ticket Tracker (Frontend)** — React + TypeScript + Vite + strict code style configs  
+  Repo: https://github.com/montaana01/ticket-tracker-frontend
+- **Ticket Tracker (Svelte version)** — Svelte + TypeScript + Vite  
+  Repo: https://github.com/montaana01/tickets-svelte
+- **Ticket Tracker (Backend)** — PHP backend (composer-based project)  
+  Repo: https://github.com/montaana01/ticket-tracker-backend
 
 ---
 
@@ -77,6 +77,7 @@
 </p>
 
 ---
+
 ### GitHub Analytics
 
 <p align="left">
@@ -84,9 +85,9 @@
 </p>
 
 <p align="left">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=montaana01&hide_border=true"
-    alt="Activity graph"
-  />
+  <img src="./metrics.languages.svg" alt="Languages" />
 </p>
 
+<p align="left">
+  <img src="./metrics.calendar.svg" alt="Calendar" />
+</p>
