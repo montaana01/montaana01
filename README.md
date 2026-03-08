@@ -30,10 +30,10 @@
   Repo: https://github.com/montaana01/orsha_shar
 - **Ticket Tracker (Frontend)** — React + TypeScript + Vite + strict code style configs  
   Repo: https://github.com/montaana01/ticket-tracker-frontend
-- **Ticket Tracker (Svelte version)** — Svelte + TypeScript + Vite  
-  Repo: https://github.com/montaana01/tickets-svelte
 - **Ticket Tracker (Backend)** — PHP backend (composer-based project)  
   Repo: https://github.com/montaana01/ticket-tracker-backend
+- **E-commerce shop** — TypeScript + React + Next.js(SSR) + Pixel-perfect + Adaptive Design
+  Repo: https://github.com/montaana01/automerc
 
 ---
 
